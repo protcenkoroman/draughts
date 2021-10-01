@@ -1,4 +1,4 @@
-baseURL = "index.html"
+baseURL = "/"
 languageCode = "ru"
 title = "Draughts"
 theme = "beautifulhugo"
