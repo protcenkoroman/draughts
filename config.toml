@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "index.html"
 languageCode = "ru"
 title = "Draughts"
 theme = "beautifulhugo"
