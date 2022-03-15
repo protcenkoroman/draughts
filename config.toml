@@ -1,11 +1,136 @@
 baseURL = "http://example.org/"
 languageCode = "ru"
-title = "Tutorial"
-theme = "beautifulhugo"
+title = "Draughts"
+theme = "hugo-octopress"
+
+# Disqus shortcode
+# Disable comments for any individual post by adding "comments: false" in its frontmatter
+# Note it's not under [params] anymore
+disqusShortname = "Admin"
+
+# Number of blog posts in each pagination page
+paginate = 5
+
+[permalinks]
+post = "/blog/:year-:month-:day/:title/" 
+# change the post URL to look like the old ones
+
+[params]
+
+  customCSS = ["css/custom.css"]
+
+# --- Start sidebar options ---
+# Number of last posts that will be displayed in the sidebar - set to 0 or remove to hide this section
+sidebarRecentLimit = 5
+
+# Sidebar header - passed to markdownify so you can write markdown here
+sidebarHeader = "О сайте"
+
+# Sidebar text also supports markdown
+# New lines can be added with two spaces at the end of line. New paragraphs can be added with two an empty line.
+# when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
+sidebarText = """Это [ссылка to example.net](https://www.example.net)
+
+Новый параграф
+
+Еще один абзац, который имеет два пробела в конце для создания новой строки с помощью markdown  
+Новая строка, но не новый абзац
+"""
+
+# Sidebar menu - if true will add a sidebar menu between sidebar text and recent posts
+sidebarMenuEnabled = true
+sidebarMenuHeader = "Полезные ссылки"
+
+# sidebar links
+github = "https://github.com/parsiya/Hugo-Octopress"
+bitbucket = "https://bitbucket.org/parsiya/"
+twitter = "https://twitter.com/cryptogangsta/"
+youtube = "https://www.youtube.com/channel/UC-y7pZPPMQaI7nGm2gioQzA"
+
+# --- End sidebar options ---
+
+# If set to true, navigation menu links will open in a new window with the exception of links to root ("/")
+# If this item does not exist or set to false, then navigation menu links will open in the same window
+navigationNewWindow = false
+
+# If false, all of blog post will appear on front page (and in pagination)
+truncate = true
+
+# Author's name (appears in meta tags and under posts)
+author = "Admin"
+
+# This text appears in the site header under website title
+subtitle = "Все о русских шашках"
+
+# Search engine URL
+searchEngineURL = "https://www.google.com/search"
+
+# Text of the "Continue Reading" label. Supports markdown and inline HTML.
+# For example, &rarr; == right arrow.
+continueReadingText = "Хотите узнать больше? &rarr;"
+
+# Switch to true to enable RSS icon link
+rss = false
+
+# Set to true to use a text label for RSS instead of an icon
+# This is overwritten by the "rss" setting
+textrss = false
+
+# Website's default description
+description = "Русские шашки"
+
+# 404.html header and text - both support markdown
+# notFoundHeader = "Здесь ничего нет"
+# notFoundText = """Пожалуйста, вернитесь назад, либо используйте меню навигации/боковых панелей.
+# """
+
+# Set to true to hide ReadingTime on posts
+disableReadingTime = false
+
+# Set to true to disable downloading of remote Google fonts
+disableGoogleFonts = false
+
+# Remove or set to false to use local fonts
+remoteFonts = false
+
+# Remove or set to false to use FontAwesome CDN, otherwise, the theme uses ForkAwesome local fonts.
+# fontAwesome = false
+
+generateTaxonomyList = true
+# Alphabetical sort
+# sortTaxonomyAlphabetical = true
+
+# Компактное отображение главной страницы
+# compactIndex = true
+
 [menu]
 
   [[menu.main]]
-    identifier = "about"
     name = "About"
     url = "/about/"
-    weight = -110
+    weight = -10
+
+  [[menu.main]]
+    name = "Чемпионаты СССР"
+    url = "/championships-ussr/"
+    weight = -9
+
+  [[menu.sidebar]]
+    Name = "Тэги"
+    URL = "/tags/"
+    weight = 0
+
+  [[menu.sidebar]]
+    Name = "Категории"
+    URL = "/categories/"
+    weight = 1
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 8
+    startLevel = 1
+  [markup.highlight]
+    style = "solarized-dark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

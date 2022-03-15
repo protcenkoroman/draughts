@@ -1,0 +1,110 @@
+#board {
+    display: grid;
+    gap: 0;
+    grid-template-columns: repeat(8, 40px);
+    grid-template-rows: repeat(8, 40px);
+    width: 320px;
+    padding: 0 !important;
+}
+
+#board div {
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.flex_div #main {
+    display: grid;
+    grid-template-areas: "header" "content" "footer";
+    grid-template-rows: 27px 1fr 27px;
+}
+
+.flex_div #header, .flex_div #footer, .flex_div #left, .flex_div #right {
+    background-image: url(/images/imagesForParty/whiteBox.jpg);
+}
+
+.flex_div #header {
+    grid-area: header;
+    display: grid;
+    grid-template-columns: 27px repeat(8, 40px) 27px;
+}
+
+.flex_div #header div, .flex_div #left div, .flex_div #right div, .flex_div #footer div {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex_div #header div:not(:first-child):not(:last-child), .flex_div #footer div:not(:first-child):not(:last-child) {
+    font-weight: 900;
+    margin: auto;
+}
+
+.flex_div #content {
+    grid-area: content;
+    display: grid;
+    grid-template-areas: "left board right";
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0;
+}
+
+.flex_div #footer {
+    grid-area: footer;
+    display: grid;
+    grid-template-columns: 27px repeat(8, 40px) 27px;
+}
+
+.flex_div #left {
+    grid-area: left;
+    display: grid;
+}
+
+.flex_div #left div, .flex_div #right div {
+    margin: auto;
+    font-weight: 900;
+}
+
+.flex_div #right {
+    grid-area: right;
+    display: grid;
+}
+
+.flex_div {
+    display: flex;
+    user-select: none;
+}
+
+.flex_div > div {
+    flex: 1 1 auto;
+    margin: 0 5px;
+}
+
+.flex_div #partyText {
+    pointer-events: none;
+}
+
+.flex_div #partyText a {
+    text-decoration: none;
+    color: black;
+    pointer-events: auto;
+}
+
+.currentMove {
+    background-color: black;
+    color: white !important;
+}
+
+.buttons {
+    text-align: center;
+    margin: 10px auto;
+}
+
+.buttons i {
+    margin: 0 10px;
+    color: #000;
+    text-shadow: 1px 1px 1px #79540c;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.table_min_size {
+    font-size: 11px;
+}
