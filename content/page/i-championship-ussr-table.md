@@ -170,7 +170,10 @@ draft: false
         <a href="/b-krutalevich-v-lisenko-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
     </td>
     <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-    <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
+    <td style="text-align: center;">
+        <a href = "" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
+        <img src="/images/results/draw.png" alt="" />
+    </td>
     <td style="text-align: center;">
         <a href="/v-lisenko-y-vertman-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
         <img src="/images/results/draw.png" alt="" />
