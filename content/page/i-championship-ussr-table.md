@@ -171,7 +171,7 @@ draft: false
     </td>
     <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
     <td style="text-align: center;">
-        <a href = "" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
+        <a href = "/v-lisenko-n-premisler-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
         <img src="/images/results/draw.png" alt="" />
     </td>
     <td style="text-align: center;">
@@ -266,7 +266,10 @@ draft: false
     <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-    <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
+    <td style="text-align: center;">
+        <a href="/v-lisenko-n-premisler-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
+        <img src="/images/results/draw.png" alt="" />
+    </td>
     <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
     <td style="background: url(/images/results/draughts.jpg) no-repeat; background-size: contain; background-position: center;"></td>
