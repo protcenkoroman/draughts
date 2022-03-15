@@ -1,12 +1,12 @@
 ---
-title: "В. Лисенко - Н. Премыслер"
+title: "В. Лисенко - С. Соколов"
 date: "2022-03-15"
-url: "/v-lisenko-n-premisler-i-ussr/"
+url: "/v-lisenko-s-sokolov-i-ussr/"
 tags: [
-"Draughts"
+    "Draughts"
 ]
 categories: [
-"I championship USSR (party)"
+    "I championship USSR (party)"
 ]
 draft: false
 ---
@@ -138,34 +138,29 @@ draft: false
             <i class="fas fa-step-forward" onclick="toEnd()"></i>
         </div>
     </div>
-    <div id="partyText"><strong><a href="javascript:moveTo(1)">1.c3-d4</a> <a href="javascript:moveTo(2)">d6-c5</a> 
-    <a href="javascript:moveTo(3)">2.b2-c3</a> <a href="javascript:moveTo(4)">c7-d6</a> 
-    <a href="javascript:moveTo(5)">3.c3-b4</a> <a href="javascript:moveTo(6)">b6-a5</a> 
-    <a href="javascript:moveTo(7)">4.d4:b6</a> <a href="javascript:moveTo(8)">a5:c7</a> 
-    <a href="javascript:moveTo(9)">5.b4-c5</a> <a href="javascript:moveTo(10)">d6:b4</a> 
-<a href="javascript:moveTo(11)">6.a3:c5</a> <a href="javascript:moveTo(12)">f6-e5</a> 
-<a href="javascript:moveTo(13)">7.g3-f4</a> <a href="javascript:moveTo(14)">e5:g3</a> 
-<a href="javascript:moveTo(15)">8.h2:f4</a> <a href="javascript:moveTo(16)">c7-d6</a> 
-<a href="javascript:moveTo(17)">9.a1-b2</a> <a href="javascript:moveTo(18)">d6:b4</a> 
-<a href="javascript:moveTo(19)">10.b2-a3</a> <a href="javascript:moveTo(20)">b8-c7</a> 
-<a href="javascript:moveTo(21)">11.a3:c5</a> <a href="javascript:moveTo(22)">c7-d6</a> 
-<a href="javascript:moveTo(23)">12.c1-b2</a> <a href="javascript:moveTo(24)">d6:b4</a> 
-<a href="javascript:moveTo(25)">13.b2-a3</a> <a href="javascript:moveTo(26)">d8-c7</a> 
-<a href="javascript:moveTo(27)">14.a3:c5</a> <a href="javascript:moveTo(28)">c7-d6</a> 
-<a href="javascript:moveTo(29)">15.c5-b6</a> <a href="javascript:moveTo(30)">a7:c5</a> 
-<a href="javascript:moveTo(31)">16.d2-c3</a> <a href="javascript:moveTo(32)">g7-f6</a> 
-<a href="javascript:moveTo(33)">17.f2-g3</a> <a href="javascript:moveTo(34)">f6-e5</a> 
-<a href="javascript:moveTo(35)">18.g3-h4</a> <a href="javascript:moveTo(36)">e5:g3</a> 
-<a href="javascript:moveTo(37)">19.h4:f2</a> <a href="javascript:moveTo(38)">h8-g7</a> 
-<a href="javascript:moveTo(39)">20.c3-d4</a> <a href="javascript:moveTo(40)">c5-b4</a> 
-<a href="javascript:moveTo(41)">21.d4-e5</a> <a href="javascript:moveTo(42)">d6:f4:d2</a> 
-<a href="javascript:moveTo(43)">22.e1:c3:a5</a> <a href="javascript:moveTo(44)">e7-d6</a> 
-<a href="javascript:moveTo(45)">23.a5-b6</a> <a href="javascript:moveTo(46)">g7-f6</a> 
-<a href="javascript:moveTo(47)">24.b6-a7</a> <a href="javascript:moveTo(48)">d6-c5</a> 
-<a href="javascript:moveTo(49)">25.a7-b8</a> <a href="javascript:moveTo(50)">c5-b4</a> 
-<a href="javascript:moveTo(51)">26.f2-e3</a> <a href="javascript:moveTo(52)">b4-a3</a> 
-<a href="javascript:moveTo(53)">27.e3-d4</a> <a href="javascript:moveTo(54)">a3-b2</a> 
-<a href="javascript:moveTo(55)">28.d4-c5</a> &frac12;&ndash;&frac12;</strong>
+    <div id="partyText"><strong><a href="javascript:moveTo(1)">1.c3-b4</a> <a href="javascript:moveTo(2)">b6-a5</a> 
+<a href="javascript:moveTo(3)">2.b4-c5</a> <a href="javascript:moveTo(4)">d6:b4</a> 
+<a href="javascript:moveTo(5)">3.a3:c5</a> <a href="javascript:moveTo(6)">f6-g5</a> 
+<a href="javascript:moveTo(7)">4.b2-c3</a> <a href="javascript:moveTo(8)">g5-h4</a> 
+<a href="javascript:moveTo(9)">5.a1-b2</a> <a href="javascript:moveTo(10)">g7-f6</a> 
+<a href="javascript:moveTo(11)">6.b2-a3</a> <a href="javascript:moveTo(12)">h8-g7</a> 
+<a href="javascript:moveTo(13)">7.c3-d4</a> <a href="javascript:moveTo(14)">c7-b6</a> 
+<a href="javascript:moveTo(15)">8.e3-f4</a> <a href="javascript:moveTo(16)">d8-c7</a> 
+<a href="javascript:moveTo(17)">9.d2-c3</a> <a href="javascript:moveTo(18)">f6-g5</a> 
+<a href="javascript:moveTo(19)">10.e1-d2</a> <a href="javascript:moveTo(20)">g5:e3</a> 
+<a href="javascript:moveTo(21)">11.d2:f4</a> <a href="javascript:moveTo(22)">g7-f6</a> 
+<a href="javascript:moveTo(23)">12.f4-g5</a> <a href="javascript:moveTo(24)">h6:f4</a> 
+<a href="javascript:moveTo(25)">13.g3:e5:g7</a> <a href="javascript:moveTo(26)">f8:h6</a> 
+<a href="javascript:moveTo(27)">14.h2-g3</a> <a href="javascript:moveTo(28)">e7-f6</a> 
+<a href="javascript:moveTo(29)">15.g3-f4</a> <a href="javascript:moveTo(30)">h4-g3</a> 
+<a href="javascript:moveTo(31)">16.f2:h4</a> <a href="javascript:moveTo(32)">f6-e5</a> 
+<a href="javascript:moveTo(33)">17.f4:d6</a> <a href="javascript:moveTo(34)">c7:e5</a> 
+<a href="javascript:moveTo(35)">18.d4:f6</a> <a href="javascript:moveTo(36)">b6:d4:b2</a> 
+<a href="javascript:moveTo(37)">19.h4-g5</a> <a href="javascript:moveTo(38)">h6:f4</a> 
+<a href="javascript:moveTo(39)">20.f6-g7</a> <a href="javascript:moveTo(40)">b2-a1</a> 
+<a href="javascript:moveTo(41)">21.g7-h8</a> <a href="javascript:moveTo(42)">f4-e3</a> 
+<a href="javascript:moveTo(43)">22.c1-b2</a> <a href="javascript:moveTo(44)">a1:c3</a> 
+<a href="javascript:moveTo(45)">23.h8:a1</a> &frac12;&ndash;&frac12;</strong>
     </div>
 </div>
 <script type="text/javascript" src="/js/party.js"></script>

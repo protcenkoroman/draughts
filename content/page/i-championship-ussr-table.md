@@ -99,8 +99,8 @@ draft: false
     <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
     <td style="text-align: center;">
-        <a href="/n-kykyev-b-mirotin-i-ussr/" target="_blank"><img src="/images/results/win.png" alt="" /></a>
-        <img src="/images/results/draw.png" alt="" />
+        <a href="/n-kykyev-b-mirotin-i-ussr/" target="_blank"><img src="/images/results/win.png" alt=""/></a>
+        <a href="/b-mirotin-n-kykyev-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt=""/></a>
     </td>
     <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
@@ -123,13 +123,16 @@ draft: false
         <img src="/images/results/win.png" alt="" />
         <a href="/v-medkov-a-sokolov-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt=""/></a>
     </td>
-    <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
+    <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt=""/></td>
     <td style="background: url(/images/results/draughts.jpg) no-repeat; background-size: contain; background-position: center;"></td>
     <td style="text-align: center;">
-        <a href="/s-sokolov-v-lisenko-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
-        <img src="/images/results/draw.png" alt="" />
+        <a href="/s-sokolov-v-lisenko-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt=""/></a>
+        <a href="/v-lisenko-s-sokolov-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt=""/></a>
     </td>
-    <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
+    <td style="text-align: center;">
+        <img src="/images/results/win.png" alt="" />
+        <a href="/s-sokolov-b-krutalevich-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
+    </td>
     <td style="text-align: center;"><a href = "/s-sokolov-s-vorontsov-i-ussr/" target="_blank"><img src="/images/results/win.png" alt="" /></a><img src="/images/results/win.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
@@ -162,7 +165,7 @@ draft: false
     </td>
     <td style="text-align: center;">
         <a href="/s-sokolov-v-lisenko-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
-        <img src="/images/results/draw.png" alt="" />
+        <a href="/v-lisenko-s-sokolov-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt=""/></a>
     </td>
     <td style="background: url(/images/results/draughts.jpg) no-repeat; background-size: contain; background-position: center;"></td>
     <td style="text-align: center;">
@@ -205,7 +208,10 @@ draft: false
         <a href = "/n-kykyev-b-krutalevich-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt=""/></a>
         <a href="/b-krutalevich-n-kykyev-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt=""></a>
     </td>
-    <td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+    <td style="text-align: center;">
+        <img src="/images/results/loss.png" alt=""/>
+        <a href="/s-sokolov-b-krutalevich-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
+    </td>
     <td style="text-align: center;">
         <img src="/images/results/win.png" alt=""/>
         <a href="/b-krutalevich-v-lisenko-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt=""/></a>
@@ -352,16 +358,19 @@ draft: false
 <td style="text-align: center;">Гомель</td>
 <td style="text-align: center;"><a href = "/v-medkov-b-mirotin-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt="" /></a><img src="/images/results/loss.png" alt="" /></td>
 <td style="text-align: center;">
-    <a href="/n-kykyev-b-mirotin-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt="" /></a>
-    <img src="/images/results/draw.png" alt="" />
+    <a href="/n-kykyev-b-mirotin-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt=""/></a>
+    <a href="/b-mirotin-n-kykyev-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt=""/></a>
 </td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><a href="/s-vorontsov-b-mirotin-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/draw.png" alt="" /></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/draw.png" alt="" /></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/draw.png" alt="" /></td>
+<td style="text-align: center;">
+    <a href="/s-vorontsov-b-mirotin-i-ussr/" target="_blank"><img src="/images/results/draw.png" alt="" /></a>
+    <img src="/images/results/loss.png" alt=""/>
+</td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
 <td style="background: url(/images/results/draughts.jpg) no-repeat; background-size: contain; background-position: center;"></td>
 <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
 <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
