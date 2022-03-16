@@ -437,26 +437,29 @@ draft: false
 <td style="text-align: center;">12.</td>
 <td>Руссо В.</td>
 <td style="text-align: center;">Москва</td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
 <td style="background: url(/images/results/draughts.jpg) no-repeat; background-size: contain; background-position: center;"></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><a href = "/v-russo-a-pel-i-ussr/" target="_blank"><img src="/images/results/win.png" alt="" /></a><img src="/images/results/win.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;">
+        <a href = "/v-russo-a-pel-i-ussr/" target="_blank"><img src="/images/results/win.png" alt=""/></a>
+        <a href="/a-pel-v-russo-i-ussr/" target="_blank"><img src="/images/results/win.png" alt="" /></a>
+</td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/win.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/win.png" alt=""/></td>
 <td style="text-align: center;"><strong><span style="color: #0000ff; font-size: large;">15½</span></strong></td>
 <td style="text-align: center;"><strong><span style="color: #0000ff; font-size: 11pt;">12-13</span></strong></td>
 </tr>
@@ -608,28 +611,31 @@ draft: false
 <td style="text-align: center;">18.</td>
 <td>Пель А.</td>
 <td style="text-align: center;">Ленин&shy;град</td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
-<td style="text-align: center;"><a href = "/v-russo-a-pel-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt="" /></a><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><strong><span style="font-size: x-large; color: #ff0000;">-</span></strong></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/win.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><img src="/images/results/win.png" alt=""/></td>
 <td style="text-align: center;">
-    <a href="/p-bulanov-a-pel-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt="" /></a>
-    <img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
+    <a href = "/v-russo-a-pel-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt=""/></a>
+    <a href="/a-pel-v-russo-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt=""/></a>
+</td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/draw.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/win.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/loss.png" alt=""/><strong><span style="font-size: x-large; color: #ff0000;">-</span></strong></td>
+<td style="text-align: center;">
+    <a href="/p-bulanov-a-pel-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt=""/></a>
+    <img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
 <td style="background: url(/images/results/draughts.jpg) no-repeat; background-size: contain; background-position: center;"></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/loss.png" alt=""/></td>
+<td style="text-align: center;"><img src="/images/results/draw.png" alt=""/><img src="/images/results/win.png" alt=""/></td>
 <td style="text-align: center;"><strong><span style="color: #0000ff; font-size: large;">12½</span></strong></td>
 <td style="text-align: center;"><strong><span style="font-size: large; color: #0000ff;">18</span></strong></td>
 </tr>
