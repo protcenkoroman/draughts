@@ -140,7 +140,10 @@ draft: false
     <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
-    <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
+    <td style="text-align: center;">
+        <img src="/images/results/loss.png" alt="" />
+        <a href = "/s-tjutin-s-sokolov-i-ussr/" target="_blank"><img src="/images/results/win.png" alt=""/></a>
+    </td>
     <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
     <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/win.png" alt="" /></td>
@@ -445,7 +448,10 @@ draft: false
 <td style="text-align: center;">Иваново-Возне&shy;сенск</td>
 <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
 <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
-<td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
+<td style="text-align: center;">
+    <img src="/images/results/win.png" alt=""/>
+    <a href = "/s-tjutin-s-sokolov-i-ussr/" target="_blank"><img src="/images/results/loss.png" alt=""/></a>
+</td>
 <td style="text-align: center;"><img src="/images/results/draw.png" alt="" /><img src="/images/results/loss.png" alt="" /></td>
 <td style="text-align: center;"><img src="/images/results/loss.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
 <td style="text-align: center;"><img src="/images/results/win.png" alt="" /><img src="/images/results/draw.png" alt="" /></td>
