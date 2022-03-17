@@ -1,4 +1,4 @@
-baseURL = "https://protcenkoroman.github.io/draughts.github.io/"
+baseURL = "localhost"
 languageCode = "ru"
 title = "Draughts"
 theme = "hugo-octopress"
